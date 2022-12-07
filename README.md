@@ -5,8 +5,10 @@ To use this web application, you will need to install Flask and Elasticsearch. Y
 
 
 pip install flask elasticsearch
+
 After installing the required packages, you can start the web application by running the following command:
 
 
 python app.py
+
 You can then access the search page at http://localhost:5000/ and index and search for documents using the /index and /search endpoints.
